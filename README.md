@@ -9,3 +9,5 @@
 </p>
 
 [problem.pdf](https://github.com/kjungw1025/Cache-simulator/files/10274216/problem.pdf)
+
+<img width="80%" src="![result](https://user-images.githubusercontent.com/120318020/208817682-cd7ef523-b311-4374-8ca6-e121a5350fe7.png)" alt="result.png">
